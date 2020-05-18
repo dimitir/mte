@@ -1,0 +1,18 @@
+[19-Nov-2019 10:36:47 UTC] PHP Warning:  include(include/head_ukr.html): failed to open stream: No such file or directory in /home/ltknelqm/public_html/index.php on line 23
+[19-Nov-2019 10:36:47 UTC] PHP Warning:  include(include/head_ukr.html): failed to open stream: No such file or directory in /home/ltknelqm/public_html/index.php on line 23
+[19-Nov-2019 10:36:47 UTC] PHP Warning:  include(): Failed opening 'include/head_ukr.html' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/ltknelqm/public_html/index.php on line 23
+[19-Nov-2019 10:36:47 UTC] PHP Warning:  include(include/footer.html): failed to open stream: No such file or directory in /home/ltknelqm/public_html/index.php on line 481
+[19-Nov-2019 10:36:47 UTC] PHP Warning:  include(include/footer.html): failed to open stream: No such file or directory in /home/ltknelqm/public_html/index.php on line 481
+[19-Nov-2019 10:36:47 UTC] PHP Warning:  include(): Failed opening 'include/footer.html' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/ltknelqm/public_html/index.php on line 481
+[19-Nov-2019 10:36:54 UTC] PHP Warning:  include(include/head_ukr.html): failed to open stream: No such file or directory in /home/ltknelqm/public_html/index.php on line 23
+[19-Nov-2019 10:36:54 UTC] PHP Warning:  include(include/head_ukr.html): failed to open stream: No such file or directory in /home/ltknelqm/public_html/index.php on line 23
+[19-Nov-2019 10:36:54 UTC] PHP Warning:  include(): Failed opening 'include/head_ukr.html' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/ltknelqm/public_html/index.php on line 23
+[19-Nov-2019 10:36:54 UTC] PHP Warning:  include(include/footer.html): failed to open stream: No such file or directory in /home/ltknelqm/public_html/index.php on line 481
+[19-Nov-2019 10:36:54 UTC] PHP Warning:  include(include/footer.html): failed to open stream: No such file or directory in /home/ltknelqm/public_html/index.php on line 481
+[19-Nov-2019 10:36:54 UTC] PHP Warning:  include(): Failed opening 'include/footer.html' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/ltknelqm/public_html/index.php on line 481
+[19-Nov-2019 10:37:36 UTC] PHP Warning:  include(include/head_ukr.html): failed to open stream: No such file or directory in /home/ltknelqm/public_html/index.php on line 23
+[19-Nov-2019 10:37:36 UTC] PHP Warning:  include(include/head_ukr.html): failed to open stream: No such file or directory in /home/ltknelqm/public_html/index.php on line 23
+[19-Nov-2019 10:37:36 UTC] PHP Warning:  include(): Failed opening 'include/head_ukr.html' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/ltknelqm/public_html/index.php on line 23
+[19-Nov-2019 10:37:36 UTC] PHP Warning:  include(include/footer.html): failed to open stream: No such file or directory in /home/ltknelqm/public_html/index.php on line 481
+[19-Nov-2019 10:37:36 UTC] PHP Warning:  include(include/footer.html): failed to open stream: No such file or directory in /home/ltknelqm/public_html/index.php on line 481
+[19-Nov-2019 10:37:36 UTC] PHP Warning:  include(): Failed opening 'include/footer.html' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/ltknelqm/public_html/index.php on line 481
