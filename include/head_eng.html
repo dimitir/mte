@@ -10,15 +10,13 @@
 
             <a class="  mt-2 mb-1 my-head__logoNure" href="http://nure.ua/">
                 <img src="img/logo_nure.png" width="26" height="26" class=" my-img-logo-nure   mb-2" alt="">
-                <span class="  h6 font-weight-light     my-head-text-nure"> Харківський національний університет
-                    радіоелектроніки </span>
+                <span class="  h6 font-weight-light     my-head-text-nure"> Kharkiv National University of Radio
+                    Electronics</span>
             </a>
 
             <div class="languageBlock">
-                <button type="button" class="btn btn-outline-light btn-sm" onclick="goToEngVersionSite()">ENG</button>
+                <button type="button" class="btn btn-outline-light btn-sm" onclick="goToUrkVersionSite()">UKR</button>
             </div>
-
-
 
         </div>
     </div>
@@ -133,19 +131,17 @@
 
 <script async>
 
-    function goToEngVersionSite() {
+    function goToUrkVersionSite() {
         const location = window.location.href;
 
         if (location.endsWith('.php') || !location.endsWith('index.php')) {
-            const locationWork = location.slice(0, -4);
-            const locationEng = locationWork + '_eng.php';
-            window.location.replace(locationEng)
+            const location = window.location.href.slice(0, -8);
+            const locationUkr = location + '.php';
+            window.location.replace(locationUkr)
         }
         else {
-            window.location.replace("http://mte.nure.ua/applicants_eng.php");
-        }F
+            window.location.replace("http://mte.nure.ua");
+        }
     }
-
-
 
 </script>

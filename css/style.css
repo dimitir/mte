@@ -216,14 +216,14 @@ dt {
 
 .my-head__logoDepartmentImg {
 
-    width: 80px;
+    width: 50px;
     margin-left: 14px;
 }
 
-.my-head__forEquilibrium {
+.languageBlock {
     margin-left: auto;
-    width: 100px;
-    height: 1px;
+     margin-top: auto;
+     margin-bottom: auto;
 }
 
 .RuzhentsevIgorViktorovich {
